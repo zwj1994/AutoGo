@@ -17,8 +17,8 @@
 本服务运行依赖谷歌浏览器（下载地址：https://www.google.cn/chrome/）
 
 有两种方式开启本服务
-一、熟悉谷歌浏览器F12调试工具的直接复制JS代码到浏览器调试工具console中，这种方式不需要安装本插件。
-复制顺序依次为：probably.js => automatic_problem_solving.js => automatic_switch_video.js
+
+一、熟悉谷歌浏览器F12调试工具的直接复制JS代码到浏览器调试工具console中，这种方式不需要安装本插件。复制顺序依次为：probably.js => automatic_problem_solving.js => automatic_switch_video.js
 
 二、选择本插件安装到谷歌浏览器中，点击浏览器右上角更多展开 => 更多工具 => 扩展程序 => 打开右上角开发者模式 => 加载已解压的扩展程序 => 选择AutoGo文件夹 => 启用完成  
 
